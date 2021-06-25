@@ -1,0 +1,16 @@
+body{
+    font-family: 'Jomhuria', cursive; 
+}
+h1{
+    font-size: 30px;
+}
+.gg{color: rgb(89, 206, 11);}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
