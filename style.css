@@ -46,7 +46,7 @@ background-image: linear-gradient(90deg ,  rgb(101, 134, 48), rgb(17, 233, 10));
 padding: 10px 20px;
 border-radius: 5px;
 color: white;
-font width: 700px; 
+font width: 700px; .
 }
 .pi{
     text-decoration: none;
@@ -55,4 +55,30 @@ font width: 700px;
     padding: 10px 15px;
     border-radius: 5px;
 }
-    
+  .another{
+      float: left;
+  }
+  .bone{
+      font-weight: bolder;
+      color:sienna;
+  }
+  .iq{color:sienna;}
+  .oj{
+      box-shadow: 10px 10px 40px yellowgreen;
+      border-radius: 10px;
+      ;
+  }
+ #noit{
+     border-left: 5px solid;
+     border-image: linear-gradient(tomato,green);
+     border-image-slice: 1;
+ }
+ #napa{
+     border-left: 5px solid ;
+     border-image:linear-gradient(yellow,white,green);
+     border-image-slice: 1;
+ }
+
+
+
+footer p{text-align: center;}
